@@ -1,1 +1,0 @@
-# ders_insertion_sort_proje1
